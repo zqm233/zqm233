@@ -89,17 +89,6 @@
 
 ---
 
-### Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Personal Website](https://github.com/zqm757438407/personal-site) | Portfolio site with i18n & dark mode | Next.js, TypeScript, Tailwind |
-| [DevPilot CLI](https://github.com/zqm757438407/devpilot-cli) | Developer productivity CLI tool | Go, Cobra |
-| [MCP Weather Server](https://github.com/zqm757438407/mcp-weather) | Weather data MCP Server for AI Agents | Python, MCP, FastAPI |
-| [K8S Log Aggregator](https://github.com/zqm757438407/k8s-log-agg) | Kubernetes log collection & search | Go, K8S, ElasticSearch |
-
----
-
 ### Contribution Snake
 
 <div align="center">
