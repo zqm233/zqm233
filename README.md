@@ -9,7 +9,7 @@
 </p>
 
 <!-- Social Badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-personal--site-58A6FF?style=flat-square&logo=vercel&logoColor=white)](https://personal-site-gamma-ecru.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Qiming_Zhang-58A6FF?style=flat-square&logo=vercel&logoColor=white)](https://personal-site-gamma-ecru.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-zqm233-181717?style=flat-square&logo=github)](https://github.com/zqm233)
 [![X](https://img.shields.io/badge/X-@EricZhang233069-000000?style=flat-square&logo=x)](https://x.com/EricZhang233069)
 [![Email](https://img.shields.io/badge/Email-zqm757438407@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zqm757438407@gmail.com)
