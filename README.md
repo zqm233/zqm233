@@ -74,12 +74,12 @@
 ### GitHub Stats
 
 <div align="center">
-  <picture>
-    <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zqm233&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zqm233&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zqm233&theme=tokyonight" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zqm233&theme=tokyonight" alt="GitHub Stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zqm233&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <div align="center">
